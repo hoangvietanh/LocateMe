@@ -1,3 +1,5 @@
+Fokr from Locateme, just for the sake of saving code for future reference
+
 # LocateMe
 At the end of last year (2017), the Ghanaian government released a digital addressing project called [GhanaPost](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Step-by-step-guide-How-to-register-on-Digital-Address-system-other-things-to-know-592296). Its idea is to give a unique adddress to every 5m x 5m area. 
 
